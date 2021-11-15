@@ -4,13 +4,13 @@ Preprocessing and Analyses:
 - After cleaning the data, checking for consistency, duplication, relevance, outliers, a set of regression analyses were done, including Linear Regression, Decision Tree, Bagged Tree, and Random Forest.
 - Random Forest provided the most accurate prediction power in the test data 
 - Social support, healthy life expectency, and Logged GDP/Capita are the most important features according to this analysis in explaining variation in the happiness score.
-Initial exploration demonstrated high correlation between social support, healthy life expectancy, freedom levels with the level of happiness
 
-Initial exploration demonstrated high correlation between social support, healthy life expectancy, freedom levels with the level of happiness
-![image](https://user-images.githubusercontent.com/77816282/141704367-c5417df7-643c-488b-93db-7678f12cb3f6.png)
-![image](https://user-images.githubusercontent.com/77816282/141704422-cff59cf1-0e28-43d7-839f-e01dead42a8f.png)
+![image](https://user-images.githubusercontent.com/77816282/141704492-6cf2a164-8b43-442d-86cf-56ec99968593.png)
+![image](https://user-images.githubusercontent.com/77816282/141704502-7dadc3cb-87f7-4f6d-bfe2-3cbb396aba2e.png)
+![image](https://user-images.githubusercontent.com/77816282/141704509-6d8ffd31-9be7-467d-86d7-138daee67efa.png)
+![image](https://user-images.githubusercontent.com/77816282/141704526-aa65e810-8284-4402-8afd-fe410f14b5a7.png)
+![image](https://user-images.githubusercontent.com/77816282/141704533-b371ed49-ee7e-4c62-aece-d7b1e52c04f4.png)
 
-![image](https://user-images.githubusercontent.com/77816282/141704467-03a85f33-d83b-40bd-95ee-1d557125d4c9.png)
 
 
 
