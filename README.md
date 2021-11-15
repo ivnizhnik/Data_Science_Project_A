@@ -10,6 +10,9 @@ Initial exploration demonstrated high correlation between social support, health
 ![image](https://user-images.githubusercontent.com/77816282/141704367-c5417df7-643c-488b-93db-7678f12cb3f6.png)
 ![image](https://user-images.githubusercontent.com/77816282/141704422-cff59cf1-0e28-43d7-839f-e01dead42a8f.png)
 
+![image](https://user-images.githubusercontent.com/77816282/141704467-03a85f33-d83b-40bd-95ee-1d557125d4c9.png)
+
+
 
 
 
