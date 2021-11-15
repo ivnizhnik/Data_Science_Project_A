@@ -4,3 +4,11 @@ Preprocessing and Analyses:
 - After cleaning the data, checking for consistency, duplication, relevance, outliers, a set of regression analyses were done, including Linear Regression, Decision Tree, Bagged Tree, and Random Forest.
 - Random Forest provided the most accurate prediction power in the test data 
 - Social support, healthy life expectency, and Logged GDP/Capita are the most important features according to this analysis in explaining variation in the happiness score.
+Initial exploration demonstrated high correlation between social support, healthy life expectancy, freedom levels with the level of happiness
+
+Initial exploration demonstrated high correlation between social support, healthy life expectancy, freedom levels with the level of happiness
+![image](https://user-images.githubusercontent.com/77816282/141704367-c5417df7-643c-488b-93db-7678f12cb3f6.png)
+
+
+
+
